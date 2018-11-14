@@ -1,7 +1,8 @@
 # airport-information-service
 
-This project is developed in java version 1.8, Spring Boot and Spring Data.
-Its simple REST API service developed with spring rest controller. To find Airport and Runway information worldwide 
+This project is developed in java version 1.8, Spring Boot and Spring Data. Used Junit, Mockito and wiremock for test cases
+Its simple REST API service developed with spring rest controller. To find Airport and Runway information worldwide.
+
 
 ## Rest API URL's
 To Fetch Aiprots for country :
