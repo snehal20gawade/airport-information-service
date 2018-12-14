@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * Backing model to hold country data
  *
- * @author Devidas_Gawade
  */
 
 @Data
