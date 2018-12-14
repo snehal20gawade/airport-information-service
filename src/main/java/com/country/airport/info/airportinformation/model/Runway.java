@@ -12,7 +12,6 @@ import java.io.Serializable;
 
 /**
  * Backing model to hold runway data
- * @author Devidas_Gawade
  *
  */
 @Builder
