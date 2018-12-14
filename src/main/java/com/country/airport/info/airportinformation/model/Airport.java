@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * Backing model to hold airport data
  *
- * @author Devidas_Gawade
  */
 @Data
 @Builder
